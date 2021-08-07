@@ -1,0 +1,71 @@
+body {
+  background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/447232/1360/2039/m1/fpnw/wm1/kkvjx9lgfpjsyyxjpsqgwsrlisg0s2ijif1rcfgofp3ndx2rosbbtpgx2zvl90cl-.jpg?1429108962&s=18a8c5105789c132a22b07087d1fb7cf");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+#interesting-fact{
+  font-size: 30px;
+	font-family:cursive;
+}
+  .title{
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 50px;
+}
+
+#container{
+
+      text-align: center;
+      font-family:  Georgial;
+      color: #fff;
+      margin: 40px auto;
+      background: rgba(22,22,22, 0.5);
+      width: 100%;
+      max-width: 960px;
+      border: 1px solid #cccccc;
+      padding: 10px;
+    }
+#card {
+  border: 4px solid #cccccc;
+  border-radius: 10px;
+  	padding: 10px;
+}
+.card-style {
+  font-style: italic;
+	font-size: 14px;
+  width: 320px;
+	margin: 20px;
+  	padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.animal-info {
+	font-style: italic;
+	font-size: 14px;
+}
+
+img {
+  width: 300px;
+  margin-bottom: 10px;
+  border: 1px solid #cccccc;
+}
+.content {
+  padding: 10px;
+	border: 1px solid #cccccc;
+  }
+
+span{
+font-weight: bold;
+font-family: Georgial;
+}
+#facts{
+  font-size: 30px;
+  list-style-type: none;
+}
+#summary {
+  font-size: 25px;
+	font-family:cursive;
+}
