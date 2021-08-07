@@ -1,5 +1,7 @@
 # Animal-Trading-Cards
 Implement a web page using HTML &amp; CSS 
+Front-End Development Track course 
+
 Task
 Use what you learned about HTML and CSS to convert an initial design into a functional web page!
 
